@@ -1,0 +1,16 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package variable;
+
+/**
+ *
+ * @author Usuario iTC
+ */
+public class java {
+    public static int numero1;
+    public static int numero2;
+    
+}
